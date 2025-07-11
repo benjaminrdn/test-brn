@@ -1,5 +1,7 @@
 # Rsbuild project
 
+Test
+
 ## Setup
 
 Install the dependencies:
