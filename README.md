@@ -1,6 +1,6 @@
 # Rsbuild project
 
-Test
+Test deployment
 
 ## Setup
 
